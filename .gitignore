@@ -1,4 +1,4 @@
-.mvn
+!.mvn/wrapper/**
 
 HELP.md
 target/
